@@ -37,7 +37,7 @@ export default function Dashboard () {
 const logout=()=>{
 	window.localStorage.clear();
 	window.location.href="./login"
-
+abcddd
 }
     return (
 		<>
